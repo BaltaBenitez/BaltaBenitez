@@ -1,5 +1,6 @@
-<h1>Hello! I'm Baltaa 🚀</h1>
-<h2>Frontend Developer 🎨</h2>
+# Hello! I'm Baltaa 🚀
+
+## Frontend Developer 🎨
 
 ### About Me
 - I'm 20 years old and I'm from Buenos Aires, Argentina.
