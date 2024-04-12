@@ -1,4 +1,4 @@
-# Hello! I'm Baltaa 🚀
+# Hello! I'm Baltaa 🛰
 
 ## Frontend Developer 🎨
 
