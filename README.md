@@ -1,10 +1,7 @@
-# Hello! I'm Baltaa 🛰
-
-## Frontend Developer 🎨
+# Hello! I'm Balti 🛰
 
 ### About Me
 - I'm 20 years old and I'm from Buenos Aires, Argentina.
-- now I'm learning React.js..
 <!---
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.--->
